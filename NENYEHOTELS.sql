@@ -12,6 +12,7 @@ Department VARCHAR (50),
 Salary INT 
               );
 
+
 INSERT INTO HotelStaff VALUES
    ('Samuel', 'Clean01', 20,'Male', 'Cleaner', 70000),
    ('Flora', 'Chef01', 25, 'Female', 'Cook', 200000),
